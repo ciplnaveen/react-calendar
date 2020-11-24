@@ -1,0 +1,17 @@
+https://daveceddia.com/react-practice-projects/
+
+Small: 
+push to github
+styled components
+test HOCs
+test render props
+test cases
+fb login
+gmail login
+login with apple
+
+Major:
+connect redux, redux-saga
+create api environment
+create dev and prod environment
+upload on netlify
